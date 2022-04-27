@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/activity_menu"
+        android:enabled="true"
+        android:icon="@drawable/icons8_person_64"
+        android:title="@string/anggota_1"/>
+    <item
+        android:id="@+id/activity_menu2"
+        android:enabled="true"
+
+        android:icon="@drawable/icons8_person_64"
+        android:title="@string/anggota_2" />
+    <item
+        android:id="@+id/activity_menu3"
+        android:enabled="true"
+        android:icon="@drawable/icons8_person_64"
+        android:title="@string/anggota_3"/>
+    <item
+        android:id="@+id/activity_menu4"
+        android:enabled="true"
+        android:icon="@drawable/icons8_person_64"
+        android:title="@string/anggota_4"/>
+    <item
+        android:id="@+id/activity_menu5"
+        android:enabled="true"
+        android:icon="@drawable/icons8_person_64"
+        android:title="@string/anggota_5"/>
+</menu>

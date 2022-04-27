@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tugas MDP</string>
+    <string name="Text_Lorem">Aplikasi ini dibuat menggunakan Android Studio sebagai bentuk pemenuhan tugas pada mata kuliah PEMROGRAMAN PERANGKAT BERGERAK 2022</string>
+    <string name="Text_Nama1">FAQIH</string>
+    <string name="Text_Nama2">DIDI</string>
+    <string name="Text_Nama3">IVAN</string>
+    <string name="Text_Nama4">RAUNG</string>
+    <string name="Text_Nama5">RIFKY</string>
+    <string name="Text_PROFILE">Profile</string>
+    <string name="anggota_1">Anggota 1</string>
+    <string name="anggota_2">Anggota 2</string>
+    <string name="anggota_3">Anggota 3</string>
+    <string name="anggota_4">Anggota 4</string>
+    <string name="anggota_5">Anggota 5</string>
+</resources>
